@@ -1,4 +1,4 @@
-package pk_for_leetcode
+package math
 
 
 func Min(numbers ...int)int{
